@@ -346,10 +346,3 @@ logger.info("result:code={},msg={}", result.getCode(), result.getMsg());
 [![vKGCLT.png](https://s1.ax1x.com/2022/08/07/vKGCLT.png)](https://imgtu.com/i/vKGCLT)
 
 ---
-
-使用过程中如遇到问题，可以通过公众号或者作者微信联系作者。
-
-公众号: MarkWord，欢迎关注
-<div><img src="https://s1.ax1x.com/2022/08/01/vA1OFU.jpg" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
-微信号：
-<div><img src="https://gingoimg.oss-cn-beijing.aliyuncs.com/ddd/qr.jpg" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
